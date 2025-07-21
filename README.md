@@ -62,7 +62,6 @@ I'm a full-stack developer passionate about building scalable web apps, writing 
 ## 🎯 Fun Fact
 
 > I run on **chai, curiosity, and creative chaos** ☕   
-> Console logs are my second language.
 > I debug like Sherlock and ship like it’s Friday 4:59 PM.
 
 ---
