@@ -69,4 +69,4 @@ I'm a full-stack developer passionate about building scalable web apps, writing 
 ## 📬 Let's Connect
 
 - 🌐 [www.purvatarale.com](https://www.purvatarale.com/)
-- 💼 [LinkedIn](https://www.purvatarale.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/purva-tarale/)
