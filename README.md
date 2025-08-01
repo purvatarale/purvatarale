@@ -3,7 +3,7 @@
 I'm a full-stack developer passionate about building scalable web apps, writing clean code, and exploring modern DevOps practices. I enjoy designing sleek UIs and diving deep into backend systems just as much.
 
 [![Portfolio](https://img.shields.io/badge/-🌐%20My%20Portfolio-000?style=for-the-badge)](https://www.purvatarale.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.purvatarale.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-tarale/)
 
 ---
 
